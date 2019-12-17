@@ -18,7 +18,8 @@ import {SharedModule} from '../shared/shared.module';
     FormsModule,
     ShoppingListRoutingModule,
     SharedModule
-  ]
+  ],
+  // providers: [LoggingService]
 })
 export class ShoppingListModule {
 }
